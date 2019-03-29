@@ -1,0 +1,1 @@
+# cf-rubocop-rspec-test
