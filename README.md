@@ -1,1 +1,1 @@
-# cf-rubocop-rspec-test 
+# cf-rubocop-rspec-test  
