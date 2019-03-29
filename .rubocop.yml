@@ -1,6 +1,4 @@
 require:
-  - rubocop-rspec
-  - rubocop-test  
 
 AllCops:
   DisabledByDefault: true
