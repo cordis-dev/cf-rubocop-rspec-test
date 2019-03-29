@@ -1,4 +1,4 @@
-require:
+require: rubocop-rspec
 
 AllCops:
   DisabledByDefault: true
